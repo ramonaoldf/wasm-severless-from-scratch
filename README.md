@@ -2,7 +2,7 @@
 
 Proof of concept of a serverless computing platform in Node.js based on the idea of nanoprocesses.
 
-![WebAssembly Serverless Computing Platform Architecture](https://raw.githubusercontent.com/ttulka/blog-assets/master/wasm-serverless/wasm-serverless-4.png)
+![WebAssembly Serverless Computing Platform Architecture](https://raw.githubusercontent.com/ramonaoldf/blog-assets/master/wasm-serverless/wasm-serverless-4.png)
 
 See details at https://blog.ttulka.com/webassembly-serverless-computing-from-scratch
 
@@ -64,4 +64,4 @@ number of requests: 1
 
 ## License
 
-[MIT](https://github.com/ttulka/wasm-severless-from-scratch/blob/main/LICENSE)
+[MIT](https://github.com/ramonaoldf/wasm-severless-from-scratch/blob/main/LICENSE)
